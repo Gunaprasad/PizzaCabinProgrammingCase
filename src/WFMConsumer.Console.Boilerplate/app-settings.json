@@ -1,0 +1,15 @@
+{
+  "Configuration": {
+    "Date": "2015-12-14"
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=ScheduleDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    },
+    "LogPath": "LogFile.log"
+  }
+}
